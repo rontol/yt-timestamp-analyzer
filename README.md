@@ -105,6 +105,3 @@ python analyzer.py "URL" --intro 60 --min-len 90
 
 ```
 
-By the way, to unlock the full functionality of all Apps, enable [Gemini Apps Activity](https://myactivity.google.com/product/gemini).
-
-```
